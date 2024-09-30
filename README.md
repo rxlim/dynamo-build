@@ -3,10 +3,6 @@
 Dynamo is a build system for Linux and Windows.
 This repository acts as a issue tracker for the project.
 
-# Home page / Documentation
+## Download & Documentation
 
-https://dynamo-build.org
-
-# Download
-
-Download dynamo from https://dynamo-build.org/download.html.
+You can download dynamo and read the documentation at https://dynamo-build.org
