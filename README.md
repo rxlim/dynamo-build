@@ -1,7 +1,9 @@
 # dynamo-build
 
-Dynamo is a build system for Linux and Windows.
-This repository acts as a issue tracker for the project.
+Dynamo is a software build system for Linux and Windows.
+
+This Github project is used as an issue tracker and a discussion forum.
+
 
 ## Download & Documentation
 
