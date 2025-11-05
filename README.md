@@ -1,6 +1,6 @@
 # dynamo-build
 
-Dynamo is a software build system for Linux and Windows.
+Dynamo is a software build system for Linux, MAC and Windows.
 
 This Github project is used as an issue tracker and a discussion forum.
 
